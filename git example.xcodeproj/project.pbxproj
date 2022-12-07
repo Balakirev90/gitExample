@@ -15,6 +15,7 @@
 		13672A0B2940921000E248FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13672A092940921000E248FA /* LaunchScreen.storyboard */; };
 		13672A13294094D900E248FA /* vc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13672A12294094D900E248FA /* vc.swift */; };
 		13672A1729409CD400E248FA /* qqq.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13672A1629409CD400E248FA /* qqq.swift */; };
+		13672A192940A7CB00E248FA /* sdjklsnlk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13672A182940A7CB00E248FA /* sdjklsnlk.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		13672A0C2940921000E248FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13672A12294094D900E248FA /* vc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vc.swift; sourceTree = "<group>"; };
 		13672A1629409CD400E248FA /* qqq.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = qqq.swift; sourceTree = "<group>"; };
+		13672A182940A7CB00E248FA /* sdjklsnlk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sdjklsnlk.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				13672A002940920F00E248FA /* SceneDelegate.swift */,
 				13672A022940920F00E248FA /* ViewController.swift */,
 				13672A1629409CD400E248FA /* qqq.swift */,
+				13672A182940A7CB00E248FA /* sdjklsnlk.swift */,
 				13672A12294094D900E248FA /* vc.swift */,
 				13672A042940920F00E248FA /* Main.storyboard */,
 				13672A072940921000E248FA /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 				13672A032940920F00E248FA /* ViewController.swift in Sources */,
 				136729FF2940920F00E248FA /* AppDelegate.swift in Sources */,
 				13672A012940920F00E248FA /* SceneDelegate.swift in Sources */,
+				13672A192940A7CB00E248FA /* sdjklsnlk.swift in Sources */,
 				13672A1729409CD400E248FA /* qqq.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
